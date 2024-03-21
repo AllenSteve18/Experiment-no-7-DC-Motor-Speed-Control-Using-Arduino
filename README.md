@@ -20,7 +20,7 @@
 The L293D quadruple half-H drivers chip allows us to drive 2 motors in both directions, with two PWM outputs from the Arduino we can easily control the speed as well as the direction of rotation of one DC motor. (PWM: Pulse Width Modulation).
 Arduino DC motor control circuit:
 Project circuit schematic diagram is the one below.
-
+### CIRCUIT DIAGRAM 
 ![image![WhatsApp Image 2024-03-21 at 11 38 29 AM](https://github.com/AllenSteve18/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/131678601/af23ce48-6420-4d79-b141-00560627284c)
 
 FIGURE-01 H BRIDGE CIRUCIT INTERFACE 
